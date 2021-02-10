@@ -8,5 +8,6 @@ language:
     chapter_name: "Chapter "
     
 rmd_files: [
-  'cc1.Rmd'
+  'cc1.Rmd',
+  'cc2.Rmd'
 ]
