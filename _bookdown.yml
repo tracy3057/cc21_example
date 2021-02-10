@@ -6,3 +6,7 @@ view: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
+
+rmd_files: [
+  'cc1.Rmd'
+]
