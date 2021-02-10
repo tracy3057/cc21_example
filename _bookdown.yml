@@ -9,5 +9,6 @@ language:
     
 rmd_files: [
   'cc1.Rmd',
-  'cc2.Rmd'
+  'cc2.Rmd',
+  'cc3.Rmd'
 ]
